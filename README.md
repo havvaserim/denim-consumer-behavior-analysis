@@ -1,11 +1,11 @@
 # Denim Consumer Behavior & Sustainability Insights
 
-A survey-based exploration of denim purchase behavior, brand preferences, and barriers to sustainable fashion adoption — based on data collected under a DAAD-sponsored research initiative.
+A survey-based exploration of denim purchase behavior, brand preferences, and barriers to sustainable fashion adoption — based on data collected under a DAAD-sponsored research project.
 
 This project explores real-world consumer decisions around denim jeans, with a focus on sustainability, eco-barriers, and how different age groups behave when shopping.
 
 > 🔍 Goal:
-> Understand who buys sustainable denim, why they do (or don’t), and what changes behavior.
+> Understand who buys sustainable denim jeans, why and how they do (or don’t).
 
 ---
 
@@ -95,14 +95,16 @@ Top barriers (in order):
 
 ## 📁 Folder Structure
 
+```bash
 denim-consumer-behavior-analysis/
 ├── README.md
 ├── data/
-│ └── cleaned_data_for_analysis.csv  
+│ └── cleaned_data_for_analysis.csv
 ├── notebooks/
-│ ├── 01_data_cleaning.ipynb  
-│ └── 02_visuals_and_insights.ipynb  
+│ ├── 01_data_cleaning.ipynb
+│ └── 02_visuals_and_insights.ipynb
 ├── reports/
-│ └── denim_consumer_behavior_report.pdf  
+│ └── denim_consumer_behavior_report.pdf
 └── documentation/
 └── data_dictionary.md
+```
